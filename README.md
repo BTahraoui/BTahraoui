@@ -14,7 +14,7 @@
 
 ## The current loop
 
-> Computer Science &amp; Networks Graduate | Deepening C Programming &amp; Linux Foundations | Exploring Cybersecurity &amp; DevOps
+> Networks Graduate | Deepening C Programming &amp; Linux Foundations |  DevOps
 
 - 👥 **0** followers · **0** following
 
@@ -23,7 +23,7 @@
 ## Things I’m building
 
 <table>
-<tr><td width="32%"><b><a href="https://github.com/BTahraoui/BTahraoui">BTahraoui</a></b></td><td>A selected project from this GitHub profile.<br/><sub>open source · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/BTahraoui/BTahraoui">BTahraoui</a></b></td><td>A Profile.<br/><sub>open source · 0 stars</sub></td></tr>
 <tr><td width="32%"><b><a href="https://github.com/BTahraoui/Libft">Libft</a></b></td><td>Libft is the first mandatory project at 42/1337 School, where students write their own C library by re-creating standard functions from the C standard library (libc) along with a set of custom utility and linked-list functions.<br/><sub>C · 0 stars</sub></td></tr>
 <tr><td width="32%"><b><a href="https://github.com/BTahraoui/1337_Pool">1337_Pool</a></b></td><td>This is a Reimplimentation of the 42/1337 school pool That contain several exercises in C language and shell<br/><sub>C · 0 stars</sub></td></tr>
 </table>
