@@ -1,53 +1,97 @@
-## Ship · learn · repeat
+# Nameless — Ship · Learn · Repeat
 
 <div align="center">
 
 # Nameless
 
-> Product-minded developer
+**Network Technician | C Programming Learner | Future Software Engineer**
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=btahraoui&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F231969112%3Fu%3D15369d39ca6253b1eec7241a2bdf712df47f26b0%26v%3D4" alt="btahraoui hero visual" />
-</p>
+*Building a strong foundation in C, Linux, and systems programming — one project at a time.*
 
 </div>
 
-## The current loop
+---
 
-> Networks Graduate | Deepening C Programming &amp; Linux Foundations |  DevOps
+## About Me
 
-- 👥 **0** followers · **0** following
+I'm a Network Technician expanding my knowledge from networking into software development.
 
-*Small, useful work over vague claims.*
+Currently focused on understanding how software works at a lower level, writing C from scratch, and strengthening my Linux and programming fundamentals.
 
-## Things I’m building
+I believe in learning by building, making mistakes, debugging, and improving with every project.
 
-<table>
-<tr><td width="32%"><b><a href="https://github.com/BTahraoui/BTahraoui">BTahraoui</a></b></td><td>A Profile.<br/><sub>open source · 0 stars</sub></td></tr>
-<tr><td width="32%"><b><a href="https://github.com/BTahraoui/Libft">Libft</a></b></td><td>Libft is the first mandatory project at 42/1337 School, where students write their own C library by re-creating standard functions from the C standard library (libc) along with a set of custom utility and linked-list functions.<br/><sub>C · 0 stars</sub></td></tr>
-<tr><td width="32%"><b><a href="https://github.com/BTahraoui/1337_Pool">1337_Pool</a></b></td><td>This is a Reimplimentation of the 42/1337 school pool That contain several exercises in C language and shell<br/><sub>C · 0 stars</sub></td></tr>
-</table>
+## Current Focus
 
-## Signals
+- **C Programming:** Pointers, memory management, strings, and data structures.
+- **Linux & Shell:** Understanding the command line and working in a Unix environment.
+- **Systems Programming:** Learning how software interacts with memory and the operating system.
+- **Networking:** Building on my existing technical background.
+- **Makefiles & Build Systems:** Understanding how C projects are compiled and organized.
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=btahraoui&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F231969112%3Fu%3D15369d39ca6253b1eec7241a2bdf712df47f26b0%26v%3D4" alt="btahraoui stats visual" />
-</p>
+## Projects
 
-<p><code>78 contributions</code> · <code>2 day streak</code></p>
+| Project | Description | Technologies |
+|---|---|---|
+| [Libft](https://github.com/BTahraoui/Libft) | Reimplementing standard C library functions and building custom utilities, including linked-list operations. | C |
+| [1337 Pool](https://github.com/BTahraoui/1337_Pool) | A collection of exercises and projects completed while practicing C programming and Shell. | C · Shell |
+| [GitHub Profile](https://github.com/BTahraoui) | My development journey, projects, and experiments. | GitHub |
 
-## The shipping calendar
+## Technologies & Tools
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=btahraoui&theme=satan" alt="btahraoui contribution activity" />
-</p>
+**Currently learning**
 
-## Work with me
+- C
+- Linux
+- Shell Scripting
+- Memory Management
+- Data Structures
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=btahraoui&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F231969112%3Fu%3D15369d39ca6253b1eec7241a2bdf712df47f26b0%26v%3D4" alt="btahraoui social visual" />
-</p>
+**Background**
 
-<a href="https://github.com/btahraoui">GitHub</a>
+- Computer Networking
+- Network Troubleshooting
+- Technical Support
 
-<p align="center"><sub>Nameless · Indie hacker profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+**Development tools**
+
+- Git & GitHub
+- GCC
+- Make
+
+## My Approach
+
+```text
+Learn the fundamentals.
+Understand how things work.
+Build something from scratch.
+Break it.
+Debug it.
+Learn from it.
+Repeat.
+```
+
+I'm not here to collect technologies. I'm here to understand them.
+
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=BTahraoui&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Statistics" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BTahraoui&layout=compact&hide_border=true&theme=transparent" alt="Most Used Languages" />
+
+</div>
+
+## Connect
+
+- **GitHub:** [@BTahraoui](https://github.com/BTahraoui)
+
+---
+
+<div align="center">
+
+*One step at a time. One project at a time.*
+
+**Ship · Learn · Repeat**
+
+</div>
