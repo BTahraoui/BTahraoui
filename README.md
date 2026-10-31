@@ -1,32 +1,45 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Badr%20Tahraoui&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Network%20%26%20Systems%20Engineer%20%7C%20%F0%9F%87%B2%F0%9F%87%A6%20Morocco&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Badr%20Tahraoui&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Network%20Engineer%20turning%20into%20Software%20Engineer&descAlignY=58&descSize=15" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=E05397&center=true&vCenter=true&width=600&lines=Network+%26+Systems+Engineer;Routing+%7C+Switching+%7C+Security;AWS+%7C+Azure+%7C+Docker;Python+%7C+Automation+%7C+DevOps)](https://github.com/BTahraoui)
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=E05397&center=true&vCenter=true&width=700&lines=Networks+Graduate+%7C+Morocco+%F0%9F%87%B2%F0%9F%87%A6;C+%7C+Linux+%7C+Systems+Programming;DevOps+%7C+Cloud+%7C+Automation;Ship+%C2%B7+Learn+%C2%B7+Repeat)](https://github.com/BTahraoui)
 
 </div>
 
 ---
 
-### 👑 About Me
+### 👤 About Me
 
 ```yaml
 name: Badr Tahraoui
-title: Network & Systems Engineer
+handle: "@btahraoui"
 location: Morocco 🇲🇦
-email: your-email@example.com
 
-passion:
-  - Designing secure & scalable networks
-  - Cloud infrastructure & DevOps pipelines
-  - Network automation with Python & Ansible
-  - Embedded systems with Arduino & Raspberry Pi
+background: Networks Graduate
+current_direction: Software Engineering
 
-currently:
-  - 🔭 Building and labbing network topologies
-  - 🌱 Learning automation & cloud networking
-  - 💡 Turning complex problems into clean solutions
+interests:
+  - C Programming & Systems
+  - Linux internals
+  - DevOps & Automation
+  - Understanding how technology works beneath the surface
+
+mindset:
+  - Curious, analytical, practical
+  - Deep understanding over trend-chasing
+  - Learning by doing
+
+long_term_goal: International tech career in Europe or Canada by 2030
+
+philosophy: "Small, useful work over vague claims."
 ```
+
+> I'm a Networks Graduate with a growing passion for Software Engineering.  
+> I prefer understanding concepts deeply rather than simply following instructions.  
+> My focus is on C, Systems Programming, Linux, and DevOps.  
+> **Ship · Learn · Repeat.**
 
 ---
 
@@ -42,16 +55,15 @@ currently:
 
 ---
 
-## 🔌 Networking Skills
+## 🧭 Professional Identity
 
 <div align="center">
 
-![Cisco](https://img.shields.io/badge/Cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white)
-![OSPF BGP EIGRP](https://img.shields.io/badge/OSPF%20%7C%20BGP%20%7C%20EIGRP-%231f6feb.svg?style=for-the-badge)
-![VLAN STP](https://img.shields.io/badge/VLAN%20%7C%20STP%20%7C%20EtherChannel-%238957e5.svg?style=for-the-badge)
-![Firewall VPN](https://img.shields.io/badge/ACL%20%7C%20VPN%20%7C%20Firewall-%23da3633.svg?style=for-the-badge)
-![DHCP DNS NAT](https://img.shields.io/badge/DHCP%20%7C%20DNS%20%7C%20NAT-%232ea043.svg?style=for-the-badge)
-![GNS3 Wireshark](https://img.shields.io/badge/GNS3%20%7C%20Wireshark%20%7C%20Packet%20Tracer-%23e05397.svg?style=for-the-badge)
+![Background](https://img.shields.io/badge/Background-Networking-%23049fd9?style=for-the-badge)
+![Direction](https://img.shields.io/badge/Direction-Software%20Engineering-%23e05397?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-C%20%7C%20Linux%20%7C%20Systems-%238957e5?style=for-the-badge)
+![Mindset](https://img.shields.io/badge/Mindset-Curious%20%26%20Analytical-%232ea043?style=for-the-badge)
+![Ambition](https://img.shields.io/badge/2030-Europe%20%7C%20Canada-%23e3b341?style=for-the-badge)
 
 </div>
 
@@ -61,19 +73,33 @@ currently:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,py,powershell,bash&perline=5" height="50"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,py,bash,linux&perline=5" height="50"/>
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,linux&perline=5" height="50"/>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,git&perline=5" height="50"/>
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,nginx,apache&perline=5" height="50"/>
+<img src="https://skillicons.dev/icons?i=github,gitlab,nginx,apache,vscode&perline=5" height="50"/>
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,unreal,vscode&perline=5" height="50"/>
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,unreal,powershell&perline=5" height="50"/>
+
+</div>
+
+---
+
+## 🔌 Networking Background
+
+<div align="center">
+
+![Cisco](https://img.shields.io/badge/Cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white)
+![Routing](https://img.shields.io/badge/OSPF%20%7C%20BGP%20%7C%20EIGRP-%231f6feb.svg?style=for-the-badge)
+![Switching](https://img.shields.io/badge/VLAN%20%7C%20STP%20%7C%20EtherChannel-%238957e5.svg?style=for-the-badge)
+![Security](https://img.shields.io/badge/ACL%20%7C%20VPN%20%7C%20Firewall-%23da3633.svg?style=for-the-badge)
+![Tools](https://img.shields.io/badge/GNS3%20%7C%20Wireshark%20%7C%20Packet%20Tracer-%23e05397.svg?style=for-the-badge)
 
 </div>
 
