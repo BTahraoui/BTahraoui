@@ -9,7 +9,33 @@
 </div>
 
 <br/>
-
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="100%">
+  <rect width="800" height="200" rx="12" fill="#0D1117"/>
+  <g stroke="#30363d" stroke-width="2" fill="none">
+    <path id="p1" d="M80 100 L240 100"/>
+    <path id="p2" d="M240 100 L400 50"/>
+    <path id="p3" d="M240 100 L400 150"/>
+    <path id="p4" d="M400 50 L560 100"/>
+    <path id="p5" d="M400 150 L560 100"/>
+    <path id="p6" d="M560 100 L720 100"/>
+  </g>
+  <g fill="#e05397">
+    <circle r="4"><animateMotion dur="2s" repeatCount="indefinite"><mpath href="#p1"/></animateMotion></circle>
+    <circle r="4"><animateMotion dur="1.6s" repeatCount="indefinite"><mpath href="#p2"/></animateMotion></circle>
+    <circle r="4"><animateMotion dur="1.8s" repeatCount="indefinite"><mpath href="#p3"/></animateMotion></circle>
+    <circle r="4"><animateMotion dur="1.6s" begin="0.5s" repeatCount="indefinite"><mpath href="#p4"/></animateMotion></circle>
+    <circle r="4"><animateMotion dur="1.8s" begin="0.7s" repeatCount="indefinite"><mpath href="#p5"/></animateMotion></circle>
+    <circle r="4"><animateMotion dur="2s" begin="1s" repeatCount="indefinite"><mpath href="#p6"/></animateMotion></circle>
+  </g>
+  <g font-family="monospace" font-size="12" fill="#c9d1d9" text-anchor="middle">
+    <circle cx="80" cy="100" r="18" fill="#161b22" stroke="#58a6ff" stroke-width="2"/><text x="80" y="138">PC</text>
+    <circle cx="240" cy="100" r="18" fill="#161b22" stroke="#e05397" stroke-width="2"/><text x="240" y="138">Switch</text>
+    <circle cx="400" cy="50" r="18" fill="#161b22" stroke="#e05397" stroke-width="2"/><text x="400" y="26">Router A</text>
+    <circle cx="400" cy="150" r="18" fill="#161b22" stroke="#e05397" stroke-width="2"/><text x="400" y="188">Router B</text>
+    <circle cx="560" cy="100" r="18" fill="#161b22" stroke="#3fb950" stroke-width="2"/><text x="560" y="138">Firewall</text>
+    <circle cx="720" cy="100" r="18" fill="#161b22" stroke="#58a6ff" stroke-width="2"/><text x="720" y="138">Internet</text>
+  </g>
+</svg>
 ### 👑 About Me
 
 ```yaml
