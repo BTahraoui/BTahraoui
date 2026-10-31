@@ -36,9 +36,9 @@ long_term_goal: International tech career in Europe or Canada by 2030
 philosophy: "Small, useful work over vague claims."
 ```
 
-> I'm a Networks Graduate with a growing passion for Software Engineering.  
-> I prefer understanding concepts deeply rather than simply following instructions.  
-> My focus is on C, Systems Programming, Linux, and DevOps.  
+> I'm a Networks Graduate with a growing passion for Software Engineering.
+> I prefer understanding concepts deeply rather than simply following instructions.
+> My focus is on C, Systems Programming, Linux, and DevOps.
 > **Ship · Learn · Repeat.**
 
 ---
@@ -124,7 +124,7 @@ philosophy: "Small, useful work over vague claims."
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=BTahraoui&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=BTahraoui&theme=tokyonight&no-frame=true&margin-w=8&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -132,7 +132,7 @@ philosophy: "Small, useful work over vague claims."
 
 ## ⚡ Activity Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BTahraoui&bg_color=0D1117&color=e05397&line=e05397&point=ffffff&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BTahraoui&bg_color=0D1117&color=e05397&line=e05397&point=ffffff&area=true&hide_border=true&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
 
